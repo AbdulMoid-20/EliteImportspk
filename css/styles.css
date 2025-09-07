@@ -274,47 +274,6 @@ header{
     border-radius: 25px;
     box-shadow: 8px 8px 10px rgb(0, 0, 0);
 }
-.sign-up{
-    max-width: 30%;
-    padding: 20px;
-    margin: 25px auto;
-    box-shadow: #fe0101 0px 5px 15px;
-    border: none;
-    border-radius: 3px;
-}
-.sign-up h1{
-    text-align: center;
-}
-.sign-up .input-box{
-    width: fit-content;
-    margin: 50px 25px;
-}
-.sign-up .check-box{
-
-    width: fit-content;
-    margin: auto;
-}
-.sign-up .check-box>p>a{ 
-    text-decoration: none;
-    color: #FAFAFA;
-
-}
-.sign-up .submit-btn{
-    max-width: fit-content;
-    margin: 10px auto;
-}
-.sign-up .submit-btn input{
-    border: none;
-    padding: 5px;
-    border-radius: 3px;
-
-}
-.sign-up p{
-    width: fit-content;
-
-    margin: auto;
-    /* margin: 15px auto ; */
-}
 footer{
     text-align: center;
     padding: 20px;
@@ -322,3 +281,4 @@ footer{
     color: #FAFAFA;
     margin-top: 50px;
 }
+
